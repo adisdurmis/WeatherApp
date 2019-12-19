@@ -1,0 +1,99 @@
+body{
+    font-family: 'Tangerine', serif;
+    background-color: #ffffff;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+
+#cityDiv{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+input[type='text']{
+    height: 40px;
+    font-size: 20px;
+}
+
+#submitCity{
+    height: 40px;
+    font-weight: bold;
+}
+
+#errorCity{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.footer{
+    background-color: #909497;
+    width: 100%;
+    height: 80px;
+    margin-top: 10px;
+    bottom: 0;
+}
+
+#showWeather{
+    width: 60%;
+    margin: auto;
+    background-color: #909497;
+    color: white;
+    border-radius: 25px;
+}
+
+table{
+    color: #333333;
+    font-family: Helvetical, Arial, sans-serif;
+    visibility: hidden;
+}
+
+th{
+    background: #909497;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+td{
+    background: #FAFAFA;
+    text-align: center;
+    font-size: 18px;
+}
+
+#welcome-paragraph{
+    font-size: 20px;
+    font-weight: normal;
+    padding: 12px 25px 40px 25px;
+    letter-spacing: 0.5px;
+}
+
+#rowDiv{
+    margin: auto;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
